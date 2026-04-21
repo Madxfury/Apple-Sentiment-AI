@@ -1,0 +1,6 @@
+streamlit
+pandas
+nltk
+emoji
+torch
+transformers
